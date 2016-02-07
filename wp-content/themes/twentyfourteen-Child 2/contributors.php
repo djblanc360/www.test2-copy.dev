@@ -17,7 +17,7 @@ get_header(); ?>
 		get_template_part( 'featured-content' );
 	}
 ?>
-
+<!--testing child template-->
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
 			<?php
